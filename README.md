@@ -1,4 +1,6 @@
 # -50
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <title>¡¡¡MIS 50`S!!!</title>
 </head>
